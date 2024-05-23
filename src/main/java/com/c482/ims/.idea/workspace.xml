@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99fff970-81d1-4729-b4a7-a030abe5e1b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddPartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InHousePart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModifyPartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModifyProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutsourcedPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/com/c482/ims/AddPart.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/com/c482/ims/AddProduct.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/com/c482/ims/MainScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/com/c482/ims/ModifyPart.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../resources/com/c482/ims/ModifyProduct.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2b8vYVaW9lG9ErQqIBtwSn0f5sp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/a20221/Documents/G WGU/C482/IMS/src/main/java/com/c482/ims"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99fff970-81d1-4729-b4a7-a030abe5e1b6" name="Changes" comment="" />
+      <created>1705609567833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705609567833</updated>
+    </task>
+    <servers />
+  </component>
+</project>
